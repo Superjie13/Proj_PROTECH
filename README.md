@@ -19,7 +19,7 @@ To use the Azure Download Tool, you need to have the following installed (ubuntu
     ```sh
     az login
     ```
-    check your ID and MDP in your email (if you are using a shared account)
+    check your ID and MDP in your email (if you are using a shared account)  
     For LAAS (CONFIDENTIEL):
       - ID: f.lerasle.ext@manitou-group.com
       - mdp = *********
