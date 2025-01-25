@@ -22,7 +22,7 @@ To use the Azure Download Tool, you need to have the following installed (ubuntu
     check your ID and MDP in your email (if you are using a shared account)
     For LAAS (CONFIDENTIEL):
       - ID: f.lerasle.ext@manitou-group.com
-      - mdp = F.Protech#2024
+      - mdp = *********
     
 2. **Azure SDK for Python**:
     ```sh
