@@ -1,4 +1,4 @@
-## PROTECH Project Tools (CONFIDENTIEL)
+## PROTECH Project Tools
 
 ### Description
 This repository contains tools for the PROTECH project. The tools are designed to facilitate various tasks, including:
